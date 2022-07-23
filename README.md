@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BEASTM0DE7203
 - 👀 I’m interested in WEB DEV, GAME DEV,electronics and communication
-- 🌱 I’m currently learning NOTHIN
-- 💞️ I’m looking to collaborate on WEB DEVELOP[MENT
+- 🌱 I’m currently learning WEB DEVELOPMENT
+- 💞️ I’m looking to collaborate on WEB DEVELOPMENT
 - 📫 How to reach me (https://beastm0de7203.github.io/CV/)
 
 
