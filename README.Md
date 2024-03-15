@@ -27,10 +27,10 @@ I'm an Electronics and Communication undergraduate passionate about innovation i
 - [GitHub](https://github.com/SHIVASRIHARIALU)
 - [LinkedIn](https://linkedin.com/in/shiva-sri-hari-alagu-uthaya-kumar-618a41234)
 
-## 📚 Projects Highlight
+<!-- ## 📚 Projects Highlight
 - **Flex EEG Headset Prototype**: A robotic system to collect EEG signals using wireless sensors.
 - **Contemplative Neuroscience Experiment**: Analyzing meditation's impact on brain signals.
-- **Smart Shopping Trolley & Augmented Reality Home Automation System**: Utilizing IoT and AR for modern solutions.
+- **Smart Shopping Trolley & Augmented Reality Home Automation System**: Utilizing IoT and AR for modern solutions. -->
 
 ## 📄 Publications
 - **Home Automation using Augmented reality** - Accepted in RESILIENT COMMUNITY MICROGRIDS by Wiley Scrivener publishing.
